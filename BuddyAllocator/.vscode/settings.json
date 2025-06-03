@@ -1,0 +1,10 @@
+{
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "iostream": "cpp",
+    "xiosbase": "cpp",
+    "ostream": "cpp",
+    "cmath": "cpp",
+    "chrono": "cpp"
+  }
+}
